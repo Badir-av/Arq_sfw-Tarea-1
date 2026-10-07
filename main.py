@@ -8,6 +8,7 @@ sismos = {
     #sismo en Pichidangui, le interesa a valpo
     1: {
         "id": 1,
+        "ref": "6 KM al NE de Pichidangui",
         "lat": -32.09,
         "lon": -71.50,
         "profundidad": 34,
@@ -17,6 +18,7 @@ sismos = {
     #sismo en Tocopilla, le interesa a arica
     2: {
         "id": 2,
+        "ref": "17 KM al O de Tocopilla",
         "lat": -22.14,
         "lon": -70.36,
         "profundidad": 34,
@@ -26,6 +28,7 @@ sismos = {
     #sismo en Chaiten, no le interesa a nadie +500KM de P.Arenas y Concepción
     3: {
         "id": 3,
+        "ref": "17 KM al S de Chaiten",
         "lat": -43.07,
         "lon": -72.69,
         "profundidad": 8,
